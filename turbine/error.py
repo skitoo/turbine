@@ -1,0 +1,2 @@
+class TurbineError(Exception):
+    pass
